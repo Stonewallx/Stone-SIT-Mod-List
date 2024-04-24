@@ -1,0 +1,261 @@
+[
+  {
+    "Name": "Scav",
+    "Description": "Scavs!",
+    "Section": "Scavs",
+    "WildSpawnType": "assault",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Scav Group",
+    "Description": "Scavs in a Group!",
+    "Section": "Scavs",
+    "WildSpawnType": "assaultGroup",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Crazy Scav Event",
+    "Description": "Scavs!",
+    "Section": "Scavs",
+    "WildSpawnType": "crazyAssaultEvent",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Usec",
+    "Description": "A PMC of the Usec Faction",
+    "Section": "PMCs",
+    "WildSpawnType": "sptUsec",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Bear",
+    "Description": "A PMC of the Bear Faction",
+    "Section": "PMCs",
+    "WildSpawnType": "sptBear",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Scav Sniper",
+    "Description": "The Scav Snipers that spawn on rooftops on certain maps",
+    "Section": "Scavs",
+    "WildSpawnType": "marksman",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Tagged and Cursed Scav",
+    "Description": "The type a scav is assigned when the player is marked as Tagged and Cursed",
+    "Section": "Scavs",
+    "WildSpawnType": "cursedAssault",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Knight",
+    "Description": "Goons leader. Close proximity to the goons has been noted to cause smashed keyboards",
+    "Section": "Goons",
+    "WildSpawnType": "bossKnight",
+    "BaseBrain": null
+  },
+  {
+    "Name": "BigPipe",
+    "Description": "Goons follower. Close proximity to the goons has been noted to cause smashed keyboards\"",
+    "Section": "Goons",
+    "WildSpawnType": "followerBigPipe",
+    "BaseBrain": null
+  },
+  {
+    "Name": "BirdEye",
+    "Description": "Goons follower. Close proximity to the goons has been noted to cause smashed keyboards\"",
+    "Section": "Goons",
+    "WildSpawnType": "followerBirdEye",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Rogue",
+    "Description": "Ex Usec Personel on Lighthouse usually found around the water treatment plant",
+    "Section": "Other",
+    "WildSpawnType": "exUsec",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Raider",
+    "Description": "Heavily armed scavs typically found on reserve and Labs by default",
+    "Section": "Other",
+    "WildSpawnType": "pmcBot",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Bloodhound",
+    "Description": "From the Live Event, nearly identical to raiders except with different voicelines and better gear. Found in",
+    "Section": "Other",
+    "WildSpawnType": "arenaFighterEvent",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Cultist Priest",
+    "Description": "Found on Customs, Woods, Factory, Shoreline at night",
+    "Section": "Other",
+    "WildSpawnType": "sectantPriest",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Cultist",
+    "Description": "Found on Customs, Woods, Factory, Shoreline at night",
+    "Section": "Other",
+    "WildSpawnType": "sectantWarrior",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Killa",
+    "Description": "He shoot. Found on Interchange and Streets",
+    "Section": "Bosses",
+    "WildSpawnType": "bossKilla",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Rashala",
+    "Description": "Customs Boss",
+    "Section": "Bosses",
+    "WildSpawnType": "bossBully",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Rashala Guard",
+    "Description": "Customs Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerBully",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Shturman",
+    "Description": "Woods Boss",
+    "Section": "Bosses",
+    "WildSpawnType": "bossKojaniy",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Shturman Guard",
+    "Description": "Woods Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerKojaniy",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Tagilla",
+    "Description": "He Smash",
+    "Section": "Bosses",
+    "WildSpawnType": "bossTagilla",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Tagilla Guard",
+    "Description": "They Smash Too?",
+    "Section": "Followers",
+    "WildSpawnType": "followerTagilla",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Sanitar",
+    "Description": "Shoreline Boss",
+    "Section": "Bosses",
+    "WildSpawnType": "bossSanitar",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Sanitar Guard",
+    "Description": "Shoreline Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerSanitar",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Gluhar",
+    "Description": "Reserve Boss. Also can be found on Streets.",
+    "Section": "Bosses",
+    "WildSpawnType": "bossGluhar",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Gluhar Guard Snipe",
+    "Description": "Reserve Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerGluharSnipe",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Gluhar Guard Scout",
+    "Description": "Reserve Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerGluharScout",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Gluhar Guard Security",
+    "Description": "Reserve Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerGluharSecurity",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Gluhar Guard Assault",
+    "Description": "Reserve Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerGluharAssault",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Zryachiy",
+    "Description": "Lighthouse Island Sniper Boss",
+    "Section": "Bosses",
+    "WildSpawnType": "bossZryachiy",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Zryachiy Guard",
+    "Description": "Lighthouse Island Sniper Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerZryachiy",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kaban",
+    "Description": "Streets Boss",
+    "Section": "Bosses",
+    "WildSpawnType": "bossBoar",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kaban Guard",
+    "Description": "Streets Boss Follower",
+    "Section": "Followers",
+    "WildSpawnType": "followerBoar",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kaban Sniper",
+    "Description": "Streets Boss Follower Sniper",
+    "Section": "Followers",
+    "WildSpawnType": "bossBoarSniper",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kolontay",
+    "Description": "",
+    "Section": "Bosses",
+    "WildSpawnType": "bossKolontay",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kolontay Assault",
+    "Description": "",
+    "Section": "Followers",
+    "WildSpawnType": "followerKolontayAssault",
+    "BaseBrain": null
+  },
+  {
+    "Name": "Kolontay Security",
+    "Description": "",
+    "Section": "Followers",
+    "WildSpawnType": "followerKolontaySecurity",
+    "BaseBrain": null
+  }
+]

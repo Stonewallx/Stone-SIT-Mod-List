@@ -1,0 +1,194 @@
+{
+  "customs": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeTower"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeFactory"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneBlockPostSniper"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeBrige"
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": null
+    }
+  ],
+  "factory_night": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": null
+    }
+  ],
+  "groundzero": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSandSnipeCenter"
+      ]
+    }
+  ],
+  "interchange": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": null
+    }
+  ],
+  "laboratory": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": null
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "Zone_SniperPeak"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": null
+    }
+  ],
+  "shoreline": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "BossEscortType": "marksman",
+      "BossEscortAmount": "0",
+      "Time": 1,
+      "BossZone": [
+        "ZonePowerStationSniper"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "BossEscortType": "marksman",
+      "BossEscortAmount": "0",
+      "Time": 1,
+      "BossZone": [
+        "ZoneBunkeSniper"
+      ]
+    }
+  ],
+  "streets": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeCinema"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeCarShowroom"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeBuilding"
+      ]
+    },
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "Time": 1,
+      "BossEscortAmount": "0",
+      "BossEscortType": "marksman",
+      "BossZone": [
+        "ZoneSnipeSW01"
+      ]
+    }
+  ],
+  "woods": [
+    {
+      "BossName": "marksman",
+      "BossChance": 65,
+      "BossEscortType": "marksman",
+      "BossEscortAmount": "0",
+      "Time": 1,
+      "BossZone": [
+        "ZoneHighRocks"
+      ]
+    }
+  ]
+}

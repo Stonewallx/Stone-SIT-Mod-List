@@ -1,0 +1,111 @@
+[
+  {
+    "RandomScenarioConfig": "Live Like (Random)",
+    "Presets": [
+      {
+        "Name": "live-like",
+        "Weight": 25
+      },
+      {
+        "Name": "live-like-alt",
+        "Weight": 25
+      },
+      {
+        "Name": "live-like-alt-2",
+        "Weight": 25
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "Starting PMCs Only (Random)",
+    "Presets": [
+      {
+        "Name": "starting-pmcs-only-live-like",
+        "Weight": 25
+      },
+      {
+        "Name": "starting-pmcs-only-live-like-alt",
+        "Weight": 25
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "Whole Lotta Scavs (Random)",
+    "Presets": [
+      {
+        "Name": "morescavs",
+        "Weight": 25
+      },
+      {
+        "Name": "starting-pmcs-only-morescavs",
+        "Weight": 25
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "I Like Pain (Random)",
+    "Presets": [
+      {
+        "Name": "morepmcs",
+        "Weight": 549
+      },
+      {
+        "Name": "morescavs",
+        "Weight": 392
+      },
+      {
+        "Name": "boss-mania",
+        "Weight": 101
+      },
+      {
+        "Name": "crazyraids",
+        "Weight": 202
+      },
+      {
+        "Name": "impossibleraids",
+        "Weight": 202
+      },
+      {
+        "Name": "live-like",
+        "Weight": 942
+      },
+      {
+        "Name": "live-like-alt",
+        "Weight": 942
+      },
+      {
+        "Name": "live-like-alt-2",
+        "Weight": 942
+      },
+      {
+        "Name": "no-starting-pmcs",
+        "Weight": 471
+      },
+      {
+        "Name": "starting-pmcs-only-live-like",
+        "Weight": 235
+      },
+      {
+        "Name": "starting-pmcs-only-live-like-alt",
+        "Weight": 235
+      },
+      {
+        "Name": "starting-pmcs-only-morescavs",
+        "Weight": 235
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "Quiet Raids (Random)",
+    "Presets": [
+      {
+        "Name": "quietraids",
+        "Weight": 25
+      },
+      {
+        "Name": "starting-pmcs-only-quietraids",
+        "Weight": 25
+      }
+    ]
+  }
+]
