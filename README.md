@@ -1,4 +1,4 @@
-# Stone-SIT-Mod-Compendium
+# Stone-SIT-Mod-List
 
 **Game Version:** 0.14.1.3.29351
 
