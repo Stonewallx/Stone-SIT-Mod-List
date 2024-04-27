@@ -4,7 +4,7 @@
 
 **SIT Version:** 1.10.8869.3183
 
-# **Important Links:**
+# **Important Links/Info:**
 
 - Install Instructions / Documentation: [Link](https://docs.stayintarkov.com/)
 - SIT Manager: [Link](https://github.com/stayintarkov/SIT.Manager.Avalonia/releases)
@@ -13,12 +13,15 @@
 **If you followed the SIT install folder layout, all these mods should be easy drag and drop into your SIT directory.**
 
 **Server/user/mods** - Server mods go here and usually consist of a folder with a package.json in it. **Only the server needs these installed.**
-
 **Game/BepInEx/plugins** - Client Mods go here and usually are .dll files but may also include a folder to go with it. **All clients should have the same client mods installed.**
+
+Load Order should be done to ensure mods are loading in the proper order. Mods load from top to bottom. You can edit the order easily using this: [Load Order Editor](https://hub.sp-tarkov.com/files/file/1082-loe-load-order-editor/)
+
 
 Disclaimer:
 
 - I do not take credit for any ports or mods, you can find the authors of both the original mods and ports in the links below. I simply have put mods in a list to easily install.
+- A few mods have had changes done to improve general stability/performance, changes are listed below.
 
 **Any and all issues should be taken up in their respective port threads or at in the Discord** [Support Channel](https://discord.com/channels/1175114933713776690/1175127842737094656).
 
@@ -215,5 +218,3 @@ Disclaimer:
 
 - [Original Mod](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/) - CWX
 - Mod Version: **1.0.2**
-
----
