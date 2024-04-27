@@ -1,0 +1,1388 @@
+{
+	"belt_fannypack": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/belt_fannypack.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "RigLayoutName": "",
+			  "Grids": [
+				{
+				  "_id": "belt_fannypackgrid",
+				  "_name": "main",
+				  "_parent": "belt_fannypack",
+				  "_props": {
+					"cellsH": 3,
+					"cellsV": 2,
+					"filters": [
+					  {
+
+						"Filter": [
+						  "54009119af1c881c07000029"
+						]
+					  }
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				  },
+				  "_proto": "55d329c24bdc2d892f8b4567"
+				}
+			  ]
+		},
+		"locales": {
+			"en": {
+				"name": "Fanny Pack",
+				"shortName": "Fanny Pack",
+				"description": "A fanny pack that can be worn at the waist and carry a moderate amount of items."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 10500,
+		"handbookPriceRoubles": 12250,
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"aerocorppistoleercombatbelt": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/aerocorppistoleercombatbelt.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [
+				{
+					"_id": "dd2bb30894b0c372396a7b9e",
+					"_name": "GridView (1)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "569039bad6e76815ef5e970e",
+					"_name": "GridView (2)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "151c5efff8f50e44df9e81f8",
+					"_name": "GridView (3)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "83819f50857cbf56ce768010",
+					"_name": "GridView (4)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "b3b6720efd1bdb0544b4cc03",
+					"_name": "GridView (5)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "2c42577a9b99b540f07e961d",
+					"_name": "GridView (6)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "5c9105caabc6c5a37a0ebaf0",
+					"_name": "GridView (7)",
+					"_parent": "aerocorppistoleercombatbelt",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			  "RigLayoutName": "aero_p"
+		},
+		"locales": {
+			"en": {
+				"name": "Aero Corp Pistoleer Combat Belt",
+				"shortName": "Pistoleer",
+				"description": "A lightweight combat belt with moderate carrying capacity manufactured by Aero Corporation."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9700,
+		"handbookPriceRoubles": 10000,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 13200,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"citadelgeneralpurposeutilitybelt": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/citadelgeneralpurposeutilitybelt.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [
+				{
+					"_id": "5a524bf1d42938994b4542b1",
+					"_name": "GridView (1)",
+					"_parent": "citadel_gpub",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "c1f77bb2f24e3c7e4ea7294a",
+					"_name": "GridView (2)",
+					"_parent": "citadel_gpub",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "72ce302a409422c5e0a05985",
+					"_name": "GridView (3)",
+					"_parent": "citadel_gpub",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "ca7082de567e6935a2e2ef53",
+					"_name": "GridView (4)",
+					"_parent": "citadel_gpub",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			  "RigLayoutName": "citadel_gpub"
+		},
+		"locales": {
+			"en": {
+				"name": "Citadel Industries General Purpose Utility Belt",
+				"shortName": "Utility",
+				"description": "A general purpose tactical belt manufactured by Citadel Industries."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 11500,
+		"handbookPriceRoubles": 12000,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14000,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"pointmanassaultbelt": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/pointmanassaultbelt.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [
+				{
+					"_id": "2ae5cf04d6b5a326ed867fd6",
+					"_name": "GridView (1)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "e54e97544208323965c52316",
+					"_name": "GridView (2)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "988463ea4217477057218f87",
+					"_name": "GridView (3)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "1cab109a96dd4fe29af18d9d",
+					"_name": "GridView (4)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "09abae39597b1183c92b083e",
+					"_name": "GridView (5)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "3157912591596a6b026a00dd",
+					"_name": "GridView (6)",
+					"_parent": "pointman",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			  ],
+			  "RigLayoutName": "pointman"
+		},
+		"locales": {
+			"en": {
+				"name": "Combat Solutions Pointman Assault Belt",
+				"shortName": "Pointman",
+				"description": "A tactical belt with several pistol magazine pouches and a dump pouch manufactured by Combat Solutions."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15500,
+		"handbookPriceRoubles": 17500,
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 24500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"polytechorionreconbelt": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/polytechorionreconbelt.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [
+				{
+					"_id": "91df979afa0c8c30086d22e8",
+					"_name": "GridView (1)",
+					"_parent": "orion",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "aa4e8efbd2b5c3e30d03a63b",
+					"_name": "GridView (2)",
+					"_parent": "orion",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			  ],
+			  "RigLayoutName": "orion"
+		},
+		"locales": {
+			"en": {
+				"name": "Polytech Orion Recon Belt",
+				"shortName": "Orion",
+				"description": "A lightweight tactical recon belt manufactured by Polytech Industries."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 5000,
+		"handbookPriceRoubles": 5500,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"lh63russianfederationdutybelt": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/lh63russianfederationdutybelt.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [
+				{
+					"_id": "e204d5208c7a3a8f5ca5668c",
+					"_name": "GridView (1)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "0d0f12441d6841a84641730a",
+					"_name": "GridView (2)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "7a153a7d284470eefbff3bfe",
+					"_name": "GridView (3)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "ad60323bb21b466cdffc5282",
+					"_name": "GridView (4)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "64e520bf7443310e1a5c07a2",
+					"_name": "GridView (5)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "f4ef00d91bbe0f094285ab26",
+					"_name": "GridView (6)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "ad0a5575860421d647a90138",
+					"_name": "GridView (7)",
+					"_parent": "lh63",
+					"_props": {
+						"cellsH": "3",
+						"cellsV": "1",
+						"filters": [
+							{
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								],
+								"Filter": [
+									"54009119af1c881c07000029"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			  ],
+			  "RigLayoutName": "lh63"
+		},
+		"locales": {
+			"en": {
+				"name": "LH-63 Duty Belt",
+				"shortName": "LH-63",
+				"description": "A Russian Federation duty belt that can carry a moderate amount of gear."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15000,
+		"handbookPriceRoubles": 16000,
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 17000,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"rebel9c": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/rebel9c.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [  {
+				"_id": "7963c5d31cb89db46c35373f",
+				"_name": "GridView (1)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "2",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "1586268416bc0aa73a6693ff",
+				"_name": "GridView (2)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "2",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "b512a8ca9b8fb4591cfa1e90",
+				"_name": "GridView (3)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "3",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "a3e7d0dc81ce2a7f4f2a4557",
+				"_name": "GridView (4)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "1",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "be5f5d487b29e5e5a777bb6c",
+				"_name": "GridView (5)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "1",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			}],
+			  "RigLayoutName": "rebel9"
+		},
+		"locales": {
+			"en": {
+				"name": "Rebel-9 Assaulter Belt (Camo)",
+				"shortName": "Rebel-9",
+				"description": "A mid-tier tactical belt that features a dump pouch. Camo variant."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16500,
+		"handbookPriceRoubles": 17000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 145,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"rebel9g": {
+		"itemTplToClone": "572b7adb24597762ae139821",
+		"parentId": "5448e5284bdc2dcb718b4567",
+		"handbookParentId": "5b5f6f8786f77447ed563642",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+                "path": "Gear_Belts/rebel9g.bundle",
+                "rcid": ""
+              },
+			  "Width": 2,
+			  "Height": 2,
+			  "Grids": [  {
+				"_id": "7963c5d31cb89db46c35373f",
+				"_name": "GridView (1)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "2",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "1586268416bc0aa73a6693ff",
+				"_name": "GridView (2)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "2",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "b512a8ca9b8fb4591cfa1e90",
+				"_name": "GridView (3)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "3",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "a3e7d0dc81ce2a7f4f2a4557",
+				"_name": "GridView (4)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "1",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			},
+			{
+				"_id": "be5f5d487b29e5e5a777bb6c",
+				"_name": "GridView (5)",
+				"_parent": "rebel9",
+				"_props": {
+					"cellsH": "1",
+					"cellsV": "1",
+					"filters": [
+						{
+							"ExcludedFilter": [
+								"5448bf274bdc2dfc2f8b456a"
+							],
+							"Filter": [
+								"54009119af1c881c07000029"
+							]
+						}
+					],
+					"isSortingTable": false,
+					"maxCount": 0,
+					"maxWeight": 0,
+					"minCount": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			}],
+			  "RigLayoutName": "rebel9"
+		},
+		"locales": {
+			"en": {
+				"name": "Rebel-9 Assaulter Belt (OD)",
+				"shortName": "Rebel-9",
+				"description": "A mid-tier tactical belt that features a dump pouch. Olive drab variant."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": ["ArmBand"],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16500,
+		"handbookPriceRoubles": 17000,
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 17500,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}

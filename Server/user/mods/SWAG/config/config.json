@@ -1,0 +1,110 @@
+{
+   "BossDifficulty": "normal",
+   "BossEscortDifficulty": "normal",
+   "disableAllSpawns": {
+      "bosses": false,
+      "rogues": false,
+      "raiders": false,
+      "cultists": false,
+      "scav_snipers": false,
+      "bloodhounds": false
+   },
+   "Spawns": {
+      "useGlobalSpawnChance": true,
+      "bloodhounds": {
+         "customs": 5,
+         "factory": 0,
+         "factory_night": 0,
+         "groundzero": 0,
+         "interchange": 0,
+         "laboratory": 0,
+         "lighthouse": 0,
+         "reserve": 0,
+         "shoreline": 5,
+         "streets": 0,
+         "woods": 5
+      },
+      "cultists": {
+         "customs": 10,
+         "factory": 0,
+         "factory_night": 2,
+         "groundzero": 0,
+         "interchange": 0,
+         "laboratory": 0,
+         "lighthouse": 0,
+         "reserve": 0,
+         "shoreline": 10,
+         "streets": 0,
+         "woods": 12
+      },
+      "raiders": {
+         "customs": 0,
+         "factory": 0,
+         "factory_night": 0,
+         "groundzero": 0,
+         "interchange": 0,
+         "laboratory": 65,
+         "lighthouse": 0,
+         "reserve": 65,
+         "shoreline": 0,
+         "streets": 0,
+         "woods": 0
+      },
+      "rogues": {
+         "customs": 0,
+         "factory": 0,
+         "factory_night": 0,
+         "groundzero": 0,
+         "interchange": 0,
+         "laboratory": 0,
+         "lighthouse": 75,
+         "reserve": 0,
+         "shoreline": 0,
+         "streets": 0,
+         "woods": 0
+      },
+      "scav_snipers": {
+         "customs": 65,
+         "factory": 0,
+         "factory_night": 0,
+         "groundzero": 0,
+         "interchange": 0,
+         "laboratory": 0,
+         "lighthouse": 65,
+         "reserve": 0,
+         "shoreline": 65,
+         "streets": 65,
+         "woods": 65
+      }
+   },
+   "MaxBotCap": {
+      "factory": 18,
+      "customs": 26,
+      "woods": 26,
+      "shoreline": 26,
+      "lighthouse": 26,
+      "reserve": 24,
+      "interchange": 24,
+      "laboratory": 18,
+      "streets": 28,
+      "groundzero": 24
+   },
+   "NightMaxBotCap": {
+      "factory_night": 18,
+      "customs": 26,
+      "woods": 26,
+      "shoreline": 26,
+      "lighthouse": 26,
+      "reserve": 24,
+      "interchange": 24,
+      "laboratory": 18,
+      "streets": 28,
+      "groundzero": 24
+   },
+   "UseDefaultSpawns": {
+      "Waves": false,
+      "Bosses": false,
+      "TriggeredWaves": false
+   },
+   "DebugOutput": false
+}

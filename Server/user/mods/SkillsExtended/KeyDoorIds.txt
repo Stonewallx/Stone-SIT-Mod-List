@@ -1,0 +1,338 @@
+FACTORY:
+
+Door ID: 00094 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: 00095 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: 00115 KeyID: 593858c486f774253a24cb52 Key Name: Pumping station back door key
+Door ID: 00120 KeyID: 57a349b2245977762b199ec7 Key Name: Pumping station front door key
+Door ID: 00126 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: 00133 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+
+CUSTOMS:
+
+Door ID: custom_Tamozhnya_00000 KeyID: 5780d0532459777a5108b9a2 Key Name: Tarcone Director's office key
+Door ID: custom_TrailerPark_00000 KeyID: 5913611c86f77479e0084092 Key Name: Trailer park portable cabin key
+Door ID: custom_TrailerPark_00001 KeyID: 5780d07a2459777de4559324 Key Name: Portable cabin key
+Door ID: custom_factoryStorageZone_00000 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: custom_factoryStorageZone_00003 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: custom_factoryStorageZone_00004 KeyID: 593962ca86f774068014d9af Key Name: Unknown key
+Door ID: custom_Obshezhitie_00014 KeyID: 59136f6f86f774447a1ed173 Key Name: Folding car key
+Door ID: custom_Obshezhitie_1_indoor_00003 KeyID: 59136a4486f774447a1ed172 Key Name: Dorm guard desk key
+Door ID: custom_Obshezhitie_1_indoor_00004 KeyID: 591382d986f774465a6413a7 Key Name: Dorm room 105 key
+Door ID: custom_Obshezhitie_1_indoor_00009 KeyID: 591383f186f7744a4c5edcf3 Key Name: Dorm room 104 key
+Door ID: custom_Obshezhitie_1_indoor_00010 KeyID: 59136e1e86f774432f15d133 Key Name: Dorm room 110 key
+Door ID: custom_Obshezhitie_1_indoor_00012 KeyID: 59387a4986f77401cc236e62 Key Name: Dorm room 114 key
+Door ID: custom_Obshezhitie_1_indoor_00028 KeyID: 5938603e86f77435642354f4 Key Name: Dorm room 206 key
+Door ID: custom_Obshezhitie_2_indoor_00008 KeyID: 5938994586f774523a425196 Key Name: Dorm room 103 key
+Door ID: custom_Obshezhitie_2_indoor_00012 KeyID: 5914578086f774123569ffa4 Key Name: Dorm room 108 key
+Door ID: custom_Obshezhitie_2_indoor_00020 KeyID: 5672c92d4bdc2d180f8b4567 Key Name: Dorm room 118 key
+Door ID: custom_Obshezhitie_2_indoor_00026 KeyID: 5938504186f7740991483f30 Key Name: Dorm room 203 key
+Door ID: custom_Obshezhitie_2_indoor_00028 KeyID: 5780cf942459777df90dcb72 Key Name: Dorm room 214 key
+Door ID: custom_Obshezhitie_2_indoor_00029 KeyID: 5780cfa52459777dfb276eb1 Key Name: Dorm room 220 key
+Door ID: custom_Obshezhitie_2_indoor_00030 KeyID: 5780cf9e2459777df90dcb73 Key Name: Dorm room 218 key
+Door ID: custom_Obshezhitie_2_indoor_00037 KeyID: 59148c8a86f774197930e983 Key Name: Dorm room 204 key
+Door ID: custom_Obshezhitie_2_indoor_00039 KeyID: 593aa4be86f77457f56379f8 Key Name: Dorm room 303 key
+Door ID: custom_Obshezhitie_2_indoor_00043 KeyID: 5780cf7f2459777de4559322 Key Name: Dorm room 314 marked key
+Door ID: custom_Obshezhitie_2_indoor_00046 KeyID: 5780cda02459777b272ede61 Key Name: Dorm room 306 key
+Door ID: custom_Obshezhitie_2_indoor_00048 KeyID: 5780cf692459777de4559321 Key Name: Dorm room 315 key
+Door ID: custom_Obshezhitie_2_indoor_00049 KeyID: 5780cf722459777a5108b9a1 Key Name: Dorm room 308 key
+Door ID: custom_AZS_00002 KeyID: 5913877a86f774432f15d444 Key Name: Gas station storage room key
+Door ID: custom_AZS_00004 KeyID: 5780d0652459777df90dcb74 Key Name: Gas station office key
+Door ID: custom_mazuto_00010 KeyID: 5da743f586f7744014504f72 Key Name: USEC stash key
+Door ID: custom_mazuto_00011 KeyID: 5da743f586f7744014504f72 Key Name: USEC stash key
+Door ID: custom_multiScene_00003 KeyID: 5937ee6486f77408994ba448 Key Name: Machinery key
+Door ID: Custom_Construction_Factory_00000 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Custom_Expansion_00000 KeyID: 5938144586f77473c2087145 Key Name: Portable bunkhouse key
+
+WOODS:
+
+Door ID: woods_combined_00022 KeyID: 591afe0186f77431bd616a11 Key Name: ZB-014 key
+Door ID: woods_combined_00040 KeyID: 591ae8f986f77406f854be45 Key Name: Yotota car key
+Door ID: woods_design_stuff_00022 KeyID: 5d08d21286f774736e7c94c3 Key Name: Shturman's stash key
+
+INTERCHANGE:
+
+Door ID: Shopping_Mall_2_00010 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00025 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00032 KeyID: 5ad5d49886f77455f9731921 Key Name: Power substation utility cabin key
+Door ID: Shopping_Mall_2_00043 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00064 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00068 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00071 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00078 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00085 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00101 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_2_00145 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_DesignStuff_00049 KeyID: 5addaffe86f77470b455f900 Key Name: Kiba Arms inner grate door key
+Door ID: Shopping_Mall_DesignStuff_00050 KeyID: 5ad5d7d286f77450166e0a89 Key Name: Kiba Arms outer door key
+Door ID: Shopping_Mall_DesignStuff_00051 KeyID: 5e42c81886f7742a01529f57 Key Name: Object #11SR keycard
+Door ID: Shopping_Mall_DesignStuff_00052 KeyID: 5e42c71586f7747f245e1343 Key Name: ULTRA medical storage key
+Door ID: Shopping_Mall_DesignStuff_00063 KeyID: 5e42c83786f7742a021fdf3c Key Name: Object #21WS keycard
+Door ID: Shopping_Mall_GOSHAN_00083 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00070 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_IDEA_00049 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00050 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00048 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00051 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_GOSHAN_00069 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00071 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_IDEA_00041 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00042 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00035 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00036 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00025 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00026 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00027 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00028 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00033 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00034 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00029 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00030 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00031 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00032 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00037 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00038 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00039 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00040 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00043 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_IDEA_00044 KeyID: 5ad7242b86f7740a6a3abd43 Key Name: IDEA cash register key
+Door ID: Shopping_Mall_indoor_00006 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00045 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00059 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00049 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00050 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00052 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00051 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00053 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00042 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00043 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00046 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00047 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00044 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00048 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00060 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00068 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00054 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00062 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00055 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00061 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00063 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00064 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00058 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00056 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00066 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00057 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00065 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00067 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_OLI_00077 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00078 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00067 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00068 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00075 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00076 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00079 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00080 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00073 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00074 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00081 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00082 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00069 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00070 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00083 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00084 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00071 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_OLI_00072 KeyID: 5ad7217186f7746744498875 Key Name: OLI cash register key
+Door ID: Shopping_Mall_indoor_00002 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_IDEA_00020 KeyID: 5ad5d64486f774079b080af8 Key Name: NecrusPharm pharmacy key
+Door ID: Shopping_Mall_Shops_00015 KeyID: 5ad5db3786f7743568421cce Key Name: EMERCOM medical unit key
+Door ID: Shopping_Mall_Shops_00016 KeyID: 5ad5db3786f7743568421cce Key Name: EMERCOM medical unit key
+Door ID: Shopping_Mall_Shops_00017 KeyID: 5ad5db3786f7743568421cce Key Name: EMERCOM medical unit key
+Door ID: Shopping_Mall_parking_work_00048 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_parking_work_00055 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Shopping_Mall_OLI_00037 KeyID: 5ad5d20586f77449be26d877 Key Name: OLI outlet utility room key
+Door ID: Shopping_Mall_OLI_00039 KeyID: 5ad5ccd186f774446d5706e9 Key Name: OLI administration office key
+Door ID: Shopping_Mall_OLI_00043 KeyID: 5ad5cfbd86f7742c825d6104 Key Name: OLI logistics department office key
+
+RESERVE:
+
+Door ID: 00469 KeyID: 5d80c62a86f7744036212b3f Key Name: RB-VO marked key
+Door ID: 00474 KeyID: 5d80c66d86f774405611c7d6 Key Name: RB-AO key
+Door ID: 00484 KeyID: 5d8e0e0e86f774321140eb56 Key Name: RB-KPRL key
+Door ID: 00485 KeyID: 5d8e0e0e86f774321140eb56 Key Name: RB-KPRL key
+Door ID: 00496 KeyID: 5d9f1fa686f774726974a992 Key Name: RB-ST key
+Door ID: 00549 KeyID: 5d947d3886f774447b415893 Key Name: RB-SMP key
+Door ID: 00551 KeyID: 5d947d4e86f774447b415895 Key Name: RB-KSM key
+Door ID: 00580 KeyID: 5d95d6fa86f77424484aa5e9 Key Name: RB-PSP2 key
+Door ID: 00581 KeyID: 5d80cb3886f77440556dbf09 Key Name: RB-PSP1 key
+Door ID: 00583 KeyID: 5d80cb3886f77440556dbf09 Key Name: RB-PSP1 key
+Door ID: 00584 KeyID: 5d80cb5686f77440545d1286 Key Name: RB-PSV1 key
+Door ID: 00585 KeyID: 5d95d6be86f77424444eb3a7 Key Name: RB-PSV2 key
+Door ID: 00586 KeyID: 5d95d6be86f77424444eb3a7 Key Name: RB-PSV2 key
+Door ID: 00601 KeyID: 5d80c88d86f77440556dbf07 Key Name: RB-AM key
+Door ID: 00609 KeyID: 5d80c78786f774403a401e3e Key Name: RB-AK key
+Door ID: 00636 KeyID: 5d80cd1a86f77402aa362f42 Key Name: RB-ORB3 key
+Door ID: 00644 KeyID: 5d80c6c586f77440351beef1 Key Name: RB-OB key
+Door ID: 00662 KeyID: 5d80c60f86f77440373c4ece Key Name: RB-BK marked key
+Door ID: 00663 KeyID: 5d80c6fc86f774403a401e3c Key Name: RB-TB key
+Door ID: 00686 KeyID: 5d80ccdd86f77474f7575e02 Key Name: RB-ORB2 key
+Door ID: 00706 KeyID: 5d80ccac86f77470841ff452 Key Name: RB-ORB1 key
+Door ID: 00722 KeyID: 5d80c8f586f77440373c4ed0 Key Name: RB-OP key
+Door ID: 00723 KeyID: 5d8e3ecc86f774414c78d05e Key Name: RB-GN key
+Door ID: 00755 KeyID: 5da5cdcd86f774529238fb9b Key Name: RB-RH key
+Door ID: 00773 KeyID: 5da46e3886f774653b7a83fe Key Name: RB-RS key
+Door ID: 00775 KeyID: 5d8e0db586f7744450412a42 Key Name: RB-KORL key
+Door ID: 00776 KeyID: 5ede7b0c6d23e5473e6e8c66 Key Name: RB-RLSA key
+Door ID: 00790 KeyID: 5d80cbd886f77470855c26c2 Key Name: RB-MP13 key
+Door ID: 00802 KeyID: 5d80cab086f77440535be201 Key Name: RB-MP22 key
+Door ID: 00812 KeyID: 5d80c95986f77440351beef3 Key Name: RB-MP12 key
+Door ID: 00819 KeyID: 5d80c93086f7744036212b41 Key Name: RB-MP11 key
+Door ID: 00820 KeyID: 5d80ca9086f774403a401e40 Key Name: RB-MP21 key
+Door ID: 00882 KeyID: 5ede7a8229445733cb4c18e2 Key Name: RB-PKPM marked key
+
+SHORELINE:
+
+Door ID: shoreline_pirs_00000 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: shoreline_garden_00023 KeyID: 5a0eb6ac86f7743124037a28 Key Name: Cottage back door key
+Door ID: shoreline_hydro_station_00016 KeyID: 5d8e15b686f774445103b190 Key Name: HEP station storage room key
+Door ID: shoreline_hydro_station_00008 KeyID: 5d8e15b686f774445103b190 Key Name: HEP station storage room key
+Door ID: shoreline_garden_00002 KeyID: 5a0eb38b86f774153b320eb0 Key Name: SMW car key
+Door ID: shoreline_sanatorium_indoor_optimized_00055 KeyID: 5a0ee4b586f7743698200d22 Key Name: Health Resort east wing room 206 key
+Door ID: shoreline_sanatorium_indoor_optimized_00056 KeyID: 5a144bdb86f7741d374bbde0 Key Name: Health Resort east wing room 205 key
+Door ID: shoreline_sanatorium_indoor_optimized_00082 KeyID: 5a13f24186f77410e57c5626 Key Name: Health Resort east wing room 222 key
+Door ID: shoreline_sanatorium_indoor_optimized_00088 KeyID: 5a13f35286f77413ef1436b0 Key Name: Health Resort east wing room 226 key
+Door ID: shoreline_sanatorium_indoor_optimized_00103 KeyID: 5a145d7b86f7744cbb6f4a13 Key Name: Health Resort east wing room 308 key
+Door ID: shoreline_sanatorium_indoor_optimized_00104 KeyID: 5a145d4786f7744cbb6f4a12 Key Name: Health Resort east wing room 306 key
+Door ID: shoreline_sanatorium_indoor_optimized_00108 KeyID: 5a0eecf686f7740350630097 Key Name: Health Resort east wing room 313 key
+Door ID: shoreline_sanatorium_indoor_optimized_00109 KeyID: 5a0eed4386f77405112912aa Key Name: Health Resort east wing room 314 key
+Door ID: shoreline_sanatorium_indoor_optimized_00115 KeyID: 5a0eee1486f77402aa773226 Key Name: Health Resort east wing room 328 key
+Door ID: shoreline_sanatorium_indoor_optimized_00120 KeyID: 5a145ebb86f77458f1796f05 Key Name: Health Resort east wing room 316 key
+Door ID: shoreline_sanatorium_indoor_optimized_00123 KeyID: 5a0eec9686f77402ac5c39f2 Key Name: Health Resort east wing room 310 key
+Door ID: shoreline_sanatorium_indoor_optimized_00135 KeyID: 5a0ea79b86f7741d4a35298e Key Name: Health Resort universal utility room key
+Door ID: shoreline_sanatorium_indoor_optimized_00041 KeyID: 5a0ea64786f7741707720468 Key Name: Health Resort east wing office room 107 key
+Door ID: shoreline_sanatorium_indoor_optimized_00048 KeyID: 5eff09cd30a7dc22fd1ddfed Key Name: Health Resort office key with a blue tape
+Door ID: shoreline_sanatorium_indoor_optimized_00167 KeyID: 5a144dfd86f77445cb5a0982 Key Name: Health Resort west wing room 203 key
+Door ID: shoreline_sanatorium_indoor_optimized_00172 KeyID: 5a0ec6d286f7742c0b518fb5 Key Name: Health Resort west wing room 205 key
+Door ID: shoreline_sanatorium_indoor_optimized_00178 KeyID: 5a0ee30786f774023b6ee08f Key Name: Health Resort west wing room 216 key
+Door ID: shoreline_sanatorium_indoor_optimized_00180 KeyID: 5a0ee34586f774023b6ee092 Key Name: Health Resort west wing room 220 key
+Door ID: shoreline_sanatorium_indoor_optimized_00189 KeyID: 5a13eebd86f7746fd639aa93 Key Name: Health Resort west wing room 218 key
+Door ID: shoreline_sanatorium_indoor_optimized_00192 KeyID: 5a0ee37f86f774023657a86f Key Name: Health Resort west wing room 221 key
+Door ID: shoreline_sanatorium_indoor_optimized_00195 KeyID: 5a1452ee86f7746f33111763 Key Name: Health Resort west wing room 222 key
+Door ID: shoreline_sanatorium_indoor_optimized_00198 KeyID: 5a13ef0686f7746e5a411744 Key Name: Health Resort west wing room 219 key
+Door ID: shoreline_sanatorium_indoor_optimized_00209 KeyID: 5a0ea79b86f7741d4a35298e Key Name: Health Resort universal utility room key
+Door ID: shoreline_sanatorium_indoor_optimized_00156 KeyID: 5a0dc45586f7742f6b0b73e3 Key Name: Health Resort west wing office room 104 key
+Door ID: shoreline_sanatorium_indoor_optimized_00159 KeyID: 5a0dc95c86f77452440fc675 Key Name: Health Resort west wing office room 112 key
+Door ID: shoreline_sanatorium_indoor_optimized_00214 KeyID: 5a13ef7e86f7741290491063 Key Name: Health Resort west wing room 301 key
+Door ID: shoreline_sanatorium_indoor_optimized_00216 KeyID: 5a13f46386f7741dd7384b04 Key Name: Health Resort west wing room 306 key
+Door ID: shoreline_sanatorium_indoor_optimized_00249 KeyID: 5a0ea79b86f7741d4a35298e Key Name: Health Resort universal utility room key
+Door ID: shoreline_DesignStuff_00254 KeyID: 5a0eff2986f7741fd654e684 Key Name: Health Resort west wing room 321 safe key
+Door ID: shoreline_DesignStuff_00169 KeyID: 5a0f08bc86f77478f33b84c2 Key Name: Health Resort management office safe key
+Door ID: shoreline_DesignStuff_00197 KeyID: 5a0f0f5886f7741c4e32a472 Key Name: Health Resort management warehouse safe key
+Door ID: shoreline_DesignStuff_00086 KeyID: 5a0f068686f7745b0d4ea242 Key Name: Cottage safe key
+
+LABS:
+
+Door ID: 00043 KeyID: 5c1e2a1e86f77431ea0ea84c Key Name: TerraGroup Labs manager's office room key
+Door ID: 00044 KeyID: 5c1e2a1e86f77431ea0ea84c Key Name: TerraGroup Labs manager's office room key
+Door ID: 00052 KeyID: 5c1e2d1f86f77431e9280bee Key Name: TerraGroup Labs weapon testing area key
+Door ID: 00053 KeyID: 5c1e2d1f86f77431e9280bee Key Name: TerraGroup Labs weapon testing area key
+Door ID: 00075 KeyID: 5c1d0c5f86f7744bb2683cf0 Key Name: TerraGroup Labs keycard (Blue)
+Door ID: 00114 KeyID: 5c1d0dc586f7744baf2e7b79 Key Name: TerraGroup Labs keycard (Green)
+Door ID: 00115 KeyID: 5c1d0dc586f7744baf2e7b79 Key Name: TerraGroup Labs keycard (Green)
+Door ID: 00121 KeyID: 5efde6b4f5448336730dbd61 Key Name: Keycard with a blue marking
+Door ID: 00176 KeyID: 5c1d0d6d86f7744bb2683e1f Key Name: TerraGroup Labs keycard (Yellow)
+Door ID: 00291 KeyID: 5c1d0f4986f7744bb01837fa Key Name: TerraGroup Labs keycard (Black)
+Door ID: 00292 KeyID: 5c1d0f4986f7744bb01837fa Key Name: TerraGroup Labs keycard (Black)
+Door ID: 00363 KeyID: 5c1e495a86f7743109743dfb Key Name: TerraGroup Labs keycard (Violet)
+Door ID: 00366 KeyID: 5c1d0efb86f7744baf2e7b7b Key Name: TerraGroup Labs keycard (Red)
+Door ID: 00367 KeyID: 5c1f79a086f7746ed066fb8f Key Name: TerraGroup Labs arsenal storage room key
+
+LIGHTHOUSE:
+
+Door ID: Lighthouse_Bus_Stop_00004 KeyID: 61a64428a8c6aa1b795f0ba1 Key Name: Convenience store storage room key
+Door ID: door_Lighthouse_Extension_00009 KeyID: 62987cb98081af308d7558c8 Key Name: Conference room key
+Door ID: 00452 KeyID: 62987dfc402c7f69bf010923 Key Name: Shared bedroom marked key
+Door ID: Lighthouse_Roads_00030 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Roads_00040 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Roads_00043 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Roads_00029 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Roads_00031 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Logistics_Terminal_00018 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Marina_00016 KeyID: 61aa5b518f5e7a39b41416e2 Key Name: Merin car trunk key
+Door ID: door_Lighthouse_Small_RLS_base_00004 KeyID: 62987c658081af308d7558c6 Key Name: Radar station commandant room key
+Door ID: Lighthouse_SwampVillage_00049 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_SwampVillage_00019 KeyID: 61a6444b8c141d68246e2d2f Key Name: Hillside house key
+Door ID: Lighthouse_SwampVillage_00095 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: Lighthouse_Water_filter_facility_01_00002 KeyID: 62987da96188c076bc0d8c51 Key Name: Operating room key
+Door ID: Lighthouse_Water_filter_facility_02_00006 KeyID: 62987e26a77ec735f90a2995 Key Name: Water treatment plant storage room key
+Door ID: Lighthouse_Water_filter_facility_03_00005 KeyID: 62a9cb937377a65d7b070cef Key Name: Rogue USEC barrack key
+Door ID: Lighthouse_WaterStation_00044 KeyID: 61aa5aed32a4743c3453d319 Key Name: Police truck cabin key
+Door ID: Lighthouse_WaterStation_00019 KeyID: 61aa81fcb225ac1ead7957c3 Key Name: Rogue USEC workshop key
+Door ID: Lighthouse_WaterStation_00017 KeyID: 61a64492ba05ef10d62adcc1 Key Name: Rogue USEC stash key
+Door ID: trunk_Lighthouse_Extension_00005 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+
+STREETS:
+
+Door ID: door_City_SE_01_Lenina_74_Indoor_00000 KeyID: 6582dc4b6ba9e979af6b79f4 Key Name: MVD academy entrance hall guard room key
+Door ID: door_City_SE_01_Pinewood_Hotel_indoor_00003 KeyID: 63a39f08cd6db0635c197600 Key Name: Pinewood hotel room 215 key
+Door ID: door_City_SE_02_Malevicha_5_00001 KeyID: 6582dbf0b8d7830efc45016f Key Name: Relaxation room key
+Door ID: door_City_SE_02_Nikitskaya_6_indoor_00016 KeyID: 63a3a93f8a56922e82001f5d Key Name: Abandoned factory marked key
+Door ID: door_City_SW_01_Primorskiy_46_indoor_00077 KeyID: 63a71ed21031ac76fe773c7f Key Name: Financial institution small office key
+Door ID: door_City_SE_02_Nikitskaya_10_indoor_00008 KeyID: 63a39667c9b3aa4b61683e98 Key Name: Financial institution office key
+Door ID: door_City_SE_03_Cinema_00000 KeyID: 6398fd8ad3de3849057f5128 Key Name: Backup hideout key
+Door ID: trunk_City_SE_03_Cinema_Street_00004 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_City_SE_04_Nizhnyaya_Sadovaya_2_3ST_REWORK_00006 KeyID: 6582dc5740562727a654ebb1 Key Name: Real estate agency office room key
+Door ID: autoId_00302 KeyID: 63a39fc0af870e651d58e6ae Key Name: Chekannaya 15 apartment key
+Door ID: door_City_SW_01_A_Chekannaya_15_indoor_00001 KeyID: 63a39f6e64283b5e9c56b289 Key Name: Iron gate key
+Door ID: door_City_SW_01_A_Chekannaya_15_indoor_00003 KeyID: 63a39f6e64283b5e9c56b289 Key Name: Iron gate key
+Door ID: door_City_SW_01_A_Chekannaya_15_indoor_00004 KeyID: 63a39f6e64283b5e9c56b289 Key Name: Iron gate key
+Door ID: door_City_SW_01_Chekannaya_15_indoor_00022 KeyID: 63a39fd1c9b3aa4b61683efb Key Name: Stair landing key
+Door ID: door_City_SW_01_Primorskiy_48_00001 KeyID: 63a39e1d234195315d4020bd Key Name: Primorsky 46-48 skybridge key
+Door ID: door_City_SW_01_Primorskiy_48_indoor_00001 KeyID: 63a71eb5b7f4570d3a29316b Key Name: Primorsky 48 apartment key
+Door ID: door_City_SW_01_A_Primorskiy_52_indoor_00001 KeyID: 64ccc2111779ad6ba200a139 Key Name: Tarbank cash register department key
+Door ID: door_City_SW_01_A_Primorskiy_52_indoor_00004 KeyID: 64ccc2111779ad6ba200a139 Key Name: Tarbank cash register department key
+Door ID: door_City_SW_01_Zmeiskiy_3_indoor_00020 KeyID: 63a39dfe3901f439517cafba Key Name: Zmeisky 3 apartment 8 key
+Door ID: door_City_SW_01_Zmeiskiy_3a_indoor_00012 KeyID: 63a39e49cd6db0635c1975fc Key Name: Archive room key
+Door ID: door_City_SW_01_Zmeiskiy_5_indoor_00015 KeyID: 63a39df18a56922e82001f25 Key Name: Zmeisky 5 apartment 20 key
+Door ID: door_City_SW_01_B_Chekannaya_13_indoor_2ST_NEW_00000 KeyID: 64ccc25f95763a1ae376e447 Key Name: Mysterious room marked key
+Door ID: door_City_SW_01_B_Klimova_16a_indoor_HIDE_00009 KeyID: 64d4b23dc1b37504b41ac2b6 Key Name: Rusted bloody key
+Door ID: door_City_SW_01_B_School_30_indoor_HIDE_00008 KeyID: 64ccc268c41e91416064ebc7 Key Name: PE teacher's office key
+Door ID: door_City_SW_01_Zmeiskiy_4a_indoor_HIDE_00017 KeyID: 64ccc246ff54fb38131acf29 Key Name: X-ray room key
+Door ID: door_City_SW_01_B_Zmeiskiy_6_indoor_3ST_NEW_00009 KeyID: 6582dbe43a2e5248357dbe9a Key Name: "Negotiation" room key
+Door ID: trunk_City_SW_01_B_Zmeiskiy_6_indoor_00003 KeyID: 61aa5ba8018e9821b7368da9 Key Name: USEC second safe key
+Door ID: door_City_SW_02_Construction_outdoor_00002 KeyID: 63a39cb1c9b3aa4b61683ee2 Key Name: Construction site bunkhouse key
+Door ID: trunk_City_SW_02_Construction_outdoor_00001 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_City_SW_02_LexOs_AutoService_indoor_00001 KeyID: 63a399193901f439517cafb6 Key Name: Car dealership director's office room key
+Door ID: door_City_SW_02_LexOs_AutoService_indoor_00000 KeyID: 63a397d3af870e651d58e65b Key Name: Car dealership closed section key
+Door ID: trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00007 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00006 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_City_SW_02_LexOs_blockpost_2ST_REWORK_00001 KeyID: 63a39fdf1e21260da44a0256 Key Name: Cargo container mesh door key
+Door ID: door_City_SW_02_Primorskiy_56_00000 KeyID: 64ce572331dd890873175115 Key Name: Aspect company office key
+Door ID: door_City_SW_02_Primorskiy_56_00005 KeyID: 63a39ce4cd6db0635c1975fa Key Name: Supply department director's office key
+Door ID: autoId_00165 KeyID: 63a71e86b7f4570d3a293169 Key Name: Concordia apartment 64 office room key
+Door ID: door_City_SW_02_Razvedchikov_7_indoor_00020 KeyID: 63a71e922b25f7513905ca20 Key Name: Concordia apartment 64 key
+Door ID: autoId_00227 KeyID: 63a71e781031ac76fe773c7d Key Name: Concordia apartment 8 room key
+Door ID: autoId_00226 KeyID: 64ccc1ec1779ad6ba200a137 Key Name: Concordia apartment 8 home cinema key
+Door ID: autoId_00222 KeyID: 64ccc1d4a0f13c24561edf27 Key Name: Concordia apartment 34 room key
+Door ID: autoId_00199 KeyID: 64ccc1f4ff54fb38131acf27 Key Name: Concordia apartment 63 room key
+Door ID: autoId_00211 KeyID: 63a39c7964283b5e9c56b280 Key Name: Concordia security room key
+Door ID: autoId_00003 KeyID: 63a39c69af870e651d58e6aa Key Name: Store manager's key
+Door ID: trunk_City_SW_05_courtyard_B_2ST_REWORK_00000 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: trunk_City_SW_05_courtyard_B_2ST_REWORK_00001 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_City_NW_01_Cardinal_indoor_00007 KeyID: 64ccc206793ca11c8f450a38 Key Name: TerraGroup meeting room key
+Door ID: door_City_NW_01_Cardinal_indoor_00001 KeyID: 64ccc24de61ea448b507d34d Key Name: TerraGroup security armory key
+Door ID: trunk_City_NW_02_Tetris_00049 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00004 KeyID: 64ccc1fe088064307e14a6f7 Key Name: Beluga restaurant director key
+Door ID: door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00005 KeyID: 64ccc1fe088064307e14a6f7 Key Name: Beluga restaurant director key
+Door ID: trunk_City_SE_01_Pinewood_Hotel_indoor_00002 KeyID: 61aa5ba8018e9821b7368da9 Key Name: USEC second safe key
+Door ID: trunk_City_SE_01_Pinewood_Hotel_indoor_00003 KeyID: 61aa5ba8018e9821b7368da9 Key Name: USEC second safe key
+Door ID: trunk_City_SE_01_Pinewood_Hotel_indoor_00001 KeyID: 61aa5ba8018e9821b7368da9 Key Name: USEC second safe key
+Door ID: container_Shopping_Mall_GOSHAN_00001 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: container_City_SE_01_Klimova_24_indoor_00001 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+Door ID: Shopping_Mall_GOSHAN_00083 KeyID: 5ad7247386f7747487619dc3 Key Name: Goshan cash register key
+
+GROUNDZERO:
+
+Door ID: door_Sandbox_bottom_area_00002 KeyID: 658199972dc4e60f6d556a2f Key Name: Underground parking utility room key
+Door ID: trunk_Sandbox_Maxim_temp_00025 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: trunk_City_Roads_Klimova_2ST_REWORK_00004 KeyID: 5448ba0b4bdc2d02308b456c Key Name: Factory emergency exit key
+Door ID: door_Sandbox_Area_01_indoor_00014 KeyID: 6581998038c79576a2569e11 Key Name: Unity Credit Bank cash register key
+Door ID: door_Sandbox_Area_05_00007 KeyID: 658199aa38c79576a2569e13 Key Name: TerraGroup science office key

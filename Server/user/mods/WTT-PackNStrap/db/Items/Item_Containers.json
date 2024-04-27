@@ -1,0 +1,902 @@
+{
+	"container_smallscavcase": {
+		"itemTplToClone": "5b7c710788a4506dec015957",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_smallscavcase.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 3,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "container_plastic",
+			"DiscardLimit": 0,
+			"Grids": [
+                   {
+                        "_name": "main",
+                        "_id": "5b7c710788a4506dec015959",
+                        "_parent": "container_smallscavcase",
+                        "_props": {
+                            "filters": [
+                                {
+                                    "Filter": [ "5448eb774bdc2d0a728b4567",
+									"5448ecbe4bdc2d60728b4568",
+									"5447e0e74bdc2d3c308b4567"],
+                                    "ExcludedFilter": ["GoblinsBoltHole"]
+                                }
+                            ],
+                            "cellsH": 8,
+                            "cellsV": 5,
+                            "minCount": 0,
+                            "maxCount": 0,
+                            "maxWeight": 0
+                        },
+                        "_proto": "55d329c24bdc2d892f8b4567"
+                    }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Scavenger's Case",
+				"shortName": "Scav Case",
+				"description": "A rugged case that can be used to store random barter items."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 648890,
+		"handbookPriceRoubles": 544098,
+		"addtoTraders": true,
+		"traderId": "THERAPIST",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 544098,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_toolpouch": {
+		"itemTplToClone": "5b7c710788a4506dec015957",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_toolpouch.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 2,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "container_plastic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "f522ff54d14993cb737bc563",
+					"_name": "GridView (1)",
+					"_parent": "container_toolpouch",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+								],
+								"Filter": [
+									"57864bb7245977548b3b66c2",
+									"57864ada245977548638de91",
+									"5d1b2f3f86f774252167a52c",
+									"5bc9c377d4351e3bac12251b",
+									"5c07df7f0db834001b73588a",
+									"5c06779c86f77426e00dd782",
+									"590a3cd386f77436f20848cb",
+									"5d1b392c86f77425243e98fe",
+									"5d1b313086f77425227d1678",
+									"57347cd0245977445a2d6ff1",
+									"590a3c0a86f774385a33c450",
+									"590a3d9c86f774385926e510",
+									"5d1c774f86f7746d6620f8db",
+									"590a391c86f774385a33c404",
+									"5d0375ff86f774186372f685",
+									"5d0378d486f77420421a5ff4",
+									"5672cb724bdc2dc2088b456b",
+									"590a3efd86f77437d351a25b",
+									"59e35de086f7741778269d84",
+									"590c5a7286f7747884343aea",
+									"5d6fc87386f77449db3db94e",
+									"5d6fc78386f77449d825f9dc",
+									"590c5c9f86f77477c91c36e7",
+									"590c5bbd86f774785762df04",
+									"5645bcc04bdc2d363b8b4572",
+									"557ff21e4bdc2d89578b4586",
+									"590c595c86f7747884343ad7",
+									"5d1c819a86f774771b0acd6c",
+									"5d1b385e86f774252167b98a",
+									"6389c6c7dbfd5e4b95197e68",
+									"57864ee62459775490116fc1",
+									"59e36c6f86f774176c10a2a7",
+									"544fb5454bdc2df8738b456a",
+									"619cc01e0a7c3a1a2731940c",
+									"5c0530ee86f774697952d952",
+									"5af0534a86f7743b6f354284",
+									"5efdaf6de6a30218ed211a48",
+									"5bc9b355d4351e6d1509862a",
+									"5e2af37686f774755a234b65"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "a4f308e681ae211a66bd1d8a",
+					"_name": "GridView (2)",
+					"_parent": "container_toolpouch",
+					"_props": {
+						"cellsH": "3",
+						"cellsV": "3",
+						"filters": [
+							{
+								"ExcludedFilter": [
+
+								],
+								"Filter": [
+									"57864bb7245977548b3b66c2",
+									"57864ada245977548638de91",
+									"5d1b2f3f86f774252167a52c",
+									"5bc9c377d4351e3bac12251b",
+									"5c07df7f0db834001b73588a",
+									"5c06779c86f77426e00dd782",
+									"590a3cd386f77436f20848cb",
+									"5d1b392c86f77425243e98fe",
+									"5d1b313086f77425227d1678",
+									"57347cd0245977445a2d6ff1",
+									"590a3c0a86f774385a33c450",
+									"590a3d9c86f774385926e510",
+									"5d1c774f86f7746d6620f8db",
+									"590a391c86f774385a33c404",
+									"5d0375ff86f774186372f685",
+									"5d0378d486f77420421a5ff4",
+									"5672cb724bdc2dc2088b456b",
+									"590a3efd86f77437d351a25b",
+									"59e35de086f7741778269d84",
+									"590c5a7286f7747884343aea",
+									"5d6fc87386f77449db3db94e",
+									"5d6fc78386f77449d825f9dc",
+									"590c5c9f86f77477c91c36e7",
+									"590c5bbd86f774785762df04",
+									"5645bcc04bdc2d363b8b4572",
+									"557ff21e4bdc2d89578b4586",
+									"590c595c86f7747884343ad7",
+									"5d1c819a86f774771b0acd6c",
+									"5d1b385e86f774252167b98a",
+									"6389c6c7dbfd5e4b95197e68",
+									"57864ee62459775490116fc1",
+									"59e36c6f86f774176c10a2a7",
+									"544fb5454bdc2df8738b456a",
+									"619cc01e0a7c3a1a2731940c",
+									"5c0530ee86f774697952d952",
+									"5af0534a86f7743b6f354284",
+									"5efdaf6de6a30218ed211a48",
+									"5bc9b355d4351e6d1509862a",
+									"5e2af37686f774755a234b65"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "7cd5ef1a8b337d8760ad6a80",
+					"_name": "GridView (3)",
+					"_parent": "container_toolpouch",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+
+								],
+								"Filter": [
+									"57864bb7245977548b3b66c2",
+									"57864ada245977548638de91",
+									"5d1b2f3f86f774252167a52c",
+									"5bc9c377d4351e3bac12251b",
+									"5c07df7f0db834001b73588a",
+									"5c06779c86f77426e00dd782",
+									"590a3cd386f77436f20848cb",
+									"5d1b392c86f77425243e98fe",
+									"5d1b313086f77425227d1678",
+									"57347cd0245977445a2d6ff1",
+									"590a3c0a86f774385a33c450",
+									"590a3d9c86f774385926e510",
+									"5d1c774f86f7746d6620f8db",
+									"590a391c86f774385a33c404",
+									"5d0375ff86f774186372f685",
+									"5d0378d486f77420421a5ff4",
+									"5672cb724bdc2dc2088b456b",
+									"590a3efd86f77437d351a25b",
+									"59e35de086f7741778269d84",
+									"590c5a7286f7747884343aea",
+									"5d6fc87386f77449db3db94e",
+									"5d6fc78386f77449d825f9dc",
+									"590c5c9f86f77477c91c36e7",
+									"590c5bbd86f774785762df04",
+									"5645bcc04bdc2d363b8b4572",
+									"557ff21e4bdc2d89578b4586",
+									"590c595c86f7747884343ad7",
+									"5d1c819a86f774771b0acd6c",
+									"5d1b385e86f774252167b98a",
+									"6389c6c7dbfd5e4b95197e68",
+									"57864ee62459775490116fc1",
+									"59e36c6f86f774176c10a2a7",
+									"544fb5454bdc2df8738b456a",
+									"619cc01e0a7c3a1a2731940c",
+									"5c0530ee86f774697952d952",
+									"5af0534a86f7743b6f354284",
+									"5efdaf6de6a30218ed211a48",
+									"5bc9b355d4351e6d1509862a",
+									"5e2af37686f774755a234b65"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "4685ff36550b32e596c92f29",
+					"_name": "GridView (4)",
+					"_parent": "container_toolpouch",
+					"_props": {
+						"cellsH": "1",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+
+								],
+								"Filter": [
+									"57864bb7245977548b3b66c2",
+									"57864ada245977548638de91",
+									"5d1b2f3f86f774252167a52c",
+									"5bc9c377d4351e3bac12251b",
+									"5c07df7f0db834001b73588a",
+									"5c06779c86f77426e00dd782",
+									"590a3cd386f77436f20848cb",
+									"5d1b392c86f77425243e98fe",
+									"5d1b313086f77425227d1678",
+									"57347cd0245977445a2d6ff1",
+									"590a3c0a86f774385a33c450",
+									"590a3d9c86f774385926e510",
+									"5d1c774f86f7746d6620f8db",
+									"590a391c86f774385a33c404",
+									"5d0375ff86f774186372f685",
+									"5d0378d486f77420421a5ff4",
+									"5672cb724bdc2dc2088b456b",
+									"590a3efd86f77437d351a25b",
+									"59e35de086f7741778269d84",
+									"590c5a7286f7747884343aea",
+									"5d6fc87386f77449db3db94e",
+									"5d6fc78386f77449d825f9dc",
+									"590c5c9f86f77477c91c36e7",
+									"590c5bbd86f774785762df04",
+									"5645bcc04bdc2d363b8b4572",
+									"557ff21e4bdc2d89578b4586",
+									"590c595c86f7747884343ad7",
+									"5d1c819a86f774771b0acd6c",
+									"5d1b385e86f774252167b98a",
+									"6389c6c7dbfd5e4b95197e68",
+									"57864ee62459775490116fc1",
+									"59e36c6f86f774176c10a2a7",
+									"544fb5454bdc2df8738b456a",
+									"619cc01e0a7c3a1a2731940c",
+									"5c0530ee86f774697952d952",
+									"5af0534a86f7743b6f354284",
+									"5efdaf6de6a30218ed211a48",
+									"5bc9b355d4351e6d1509862a",
+									"5e2af37686f774755a234b65"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Tool Bag",
+				"shortName": "Tool Bag",
+				"description": "A small repairman's tool bag that can be used for storing a small amount of tools."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 24899,
+		"handbookPriceRoubles": 16420,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 16420,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_smalldocscase": {
+		"itemTplToClone": "590c60fc86f77412b13fddcf",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_smalldocscase.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 1,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "684a9d9179a53d921cb19a8a",
+					"_name": "GridView (1)",
+					"_parent": "container_smalldocscase",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "3",
+						"filters": [
+							{
+								"ExcludedFilter": [
+
+								],
+								"Filter": [
+									"59faff1d86f7746c51718c9c",
+									"5d235b4d86f7742e017bc88a",
+									"5f745ee30acaeb0d490d8c5b",
+									"619cbf9e0a7c3a1a2731940a",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"567849dd4bdc2d150f8b456e",
+									"543be5dd4bdc2deb348b4569"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_id": "190ceb4485554a2b284a97e5",
+					"_name": "GridView (2)",
+					"_parent": "container_smalldocscase",
+					"_props": {
+						"cellsH": "2",
+						"cellsV": "2",
+						"filters": [
+							{
+								"ExcludedFilter": [
+
+								],
+								"Filter": [
+									"59faff1d86f7746c51718c9c",
+									"5d235b4d86f7742e017bc88a",
+									"5f745ee30acaeb0d490d8c5b",
+									"619cbf9e0a7c3a1a2731940a",
+									"5448ecbe4bdc2d60728b4568",
+									"543be5e94bdc2df1348b4568",
+									"567849dd4bdc2d150f8b456e",
+									"543be5dd4bdc2deb348b4569"
+								]
+							}
+						],
+						"isSortingTable": false,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Leather Docket",
+				"shortName": "Docket",
+				"description": "A small leather docket that can be used to securely store important small items and currency."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 39890,
+		"handbookPriceRoubles": 27840,
+		"addtoTraders": true,
+		"traderId": "THERAPIST",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 27840,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_medpouch": {
+		"itemTplToClone": "5aafbde786f774389d0cbc0f",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_medpouch.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 1,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "container_medpouchgrids",
+					"_name": "main",
+					"_parent": "container_medpouch",
+					"_props": {
+					  "cellsH": 2,
+					  "cellsV": 4,
+					  "filters": [
+						{
+						  
+						  "Filter": [
+							"57864c8c245977548867e7f1",
+							"543be5664bdc2dd4348b4569"
+						  ]
+						}
+					  ],
+					  "isSortingTable": false,
+					  "maxCount": 0,
+					  "maxWeight": 0,
+					  "minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				  }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Medical Pouch",
+				"shortName": "Med Pouch",
+				"description": "A small medical pouch that can be used to store medical items."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 18420,
+		"handbookPriceRoubles": 14420,
+		"addtoTraders": true,
+		"traderId": "THERAPIST",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14420,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_ammopouch": {
+		"itemTplToClone": "5aafbde786f774389d0cbc0f",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_ammopouch.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 2,
+                "Height": 1,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "5aafbde786f774389d0cbc11",
+					"_name": "main",
+					"_parent": "5aafbde786f774389d0cbc0f",
+					"_props": {
+					  "cellsH": 4,
+					  "cellsV": 2,
+					  "filters": [
+						{
+						  
+						  "Filter": [
+							"5485a8684bdc2da71d8b4567",
+							"543be5cb4bdc2deb348b4568"
+						  ]
+						}
+					  ],
+					  "isSortingTable": false,
+					  "maxCount": 0,
+					  "maxWeight": 0,
+					  "minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				  }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Ammunition Pouch",
+				"shortName": "Ammo Pouch",
+				"description": "A small leather pouch that can be used to store munitions."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9592,
+		"handbookPriceRoubles": 8092,
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 8092,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_magpouch": {
+		"itemTplToClone": "5c127c4486f7745625356c13",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_magpouch.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 2,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "container_magpouchgrid",
+					"_name": "main",
+					"_parent": "container_magpouch",
+					"_props": {
+					  "cellsH": 4,
+					  "cellsV": 4,
+					  "filters": [
+						{
+						  
+						  "Filter": [
+							"5448bc234bdc2d3c308b4569"
+						  ]
+						}
+					  ],
+					  "isSortingTable": false,
+					  "maxCount": 0,
+					  "maxWeight": 0,
+					  "minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				  }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Magazine Pouch",
+				"shortName": "Mag Pouch",
+				"description": "A small fabric pouch that can be used to store magazines."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 14890,
+		"handbookPriceRoubles": 12420,
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12420,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_lunchbox": {
+		"itemTplToClone": "5c093db286f7740a1b2617e3",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_lunchbox.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			"BackgroundColor": "black",
+			 "Width": 2,
+                "Height": 2,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "container_lunchboxgrid",
+					"_name": "main",
+					"_parent": "container_lunchbox",
+					"_props": {
+					  "cellsH": 3,
+					  "cellsV": 3,
+					  "filters": [
+						{
+						  
+						  "Filter": [
+							"5af0484c86f7740f02001f7f",
+							"5e54f6af86f7742199090bf3",
+							"5bc9be8fd4351e00334cae6e",
+							"543be6674bdc2df1348b4569",
+							"6389c6463485cf0eeb260715"
+						  ]
+						}
+					  ],
+					  "isSortingTable": false,
+					  "maxCount": 0,
+					  "maxWeight": 0,
+					  "minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				  }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Vintage Lunch Box",
+				"shortName": "Lunch Box",
+				"description": "A retro lunch box that can be used to store a small amount of food or drink."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 18890,
+		"handbookPriceRoubles": 16420,
+		"addtoTraders": true,
+		"traderId": "JAEGAR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 16420,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"container_keyring": {
+		"itemTplToClone": "59fafd4b86f7745ca07e1232",
+		"parentId": "5795f317245977243854e041",
+		"handbookParentId": "5b5f6fa186f77409407a7eb7",
+		"overrideProperties": {
+			 "Prefab": {
+                    "path": "Item_Containers/container_keyring.bundle",
+                    "rcid": ""
+                },
+			"ExaminedByDefault": true,
+			 "Width": 1,
+                "Height": 1,
+			"Weight": 0.5,
+			"DiscardingBlock": false,
+			 "ItemSound": "gear_generic",
+			"DiscardLimit": 0,
+			"Grids": [
+				{
+					"_id": "container_keyringgrid",
+					"_name": "main",
+					"_parent": "container_keyring",
+					"_props": {
+					  "cellsH": 3,
+					  "cellsV": 2,
+					  "filters": [
+						{
+					
+						  "Filter": [
+							"5c99f98d86f7745c314214b3"
+						  ]
+						}
+					  ],
+					  "isSortingTable": false,
+					  "maxCount": 0,
+					  "maxWeight": 0,
+					  "minCount": 0
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				  }
+                ]
+		},
+		"locales": {
+			"en": {
+				"name": "Small Key Ring",
+				"shortName": "Key Ring",
+				"description": "A key ring that can hold a small number of keys."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 7740,
+		"handbookPriceRoubles": 6870,
+		"addtoTraders": true,
+		"traderId": "THERAPIST",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6870,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	}
+	}
