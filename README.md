@@ -2,7 +2,7 @@
 
 **Game Version:** 0.14.1.3.29351
 
-**SIT Version:** 1.10.8869.3183
+**SIT Version:** 1.10.8882.41069
 
 # **Important Links/Info:**
 
@@ -125,6 +125,7 @@ Disclaimer:
 - [Original Mod](https://hub.sp-tarkov.com/files/file/942-fontaine-s-fov-fix-variable-optics/) - Fontaine
 - [Ported Mod](https://discord.com/channels/1175114933713776690/1229982011301826581/1229982011301826581) - Chewie
 - Mod Version: **1.11.0**
+- Known Issues: Cycling alternate reticles is very delayed.
 
 ---
 
