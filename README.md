@@ -13,6 +13,7 @@
 **If you followed the SIT install folder layout, all these mods should be easy drag and drop into your SIT directory.**
 
 **Server/user/mods** - Server mods go here and usually consist of a folder with a package.json in it. **Only the server needs these installed.**
+
 **Game/BepInEx/plugins** - Client Mods go here and usually are .dll files but may also include a folder to go with it. **All clients should have the same client mods installed.**
 
 Load Order should be done to ensure mods are loading in the proper order. Mods load from top to bottom. You can edit the order easily using this: [Load Order Editor](https://hub.sp-tarkov.com/files/file/1082-loe-load-order-editor/)
