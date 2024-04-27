@@ -205,7 +205,6 @@ Disclaimer:
 
 - [Original Mod](https://hub.sp-tarkov.com/files/file/1152-inventory-organizing-features/) - Nightingale
 - Mod Version: **1.1.0-spt371**
-- Known Issues: EFT Sort feature does not work.
 
 ---
 
