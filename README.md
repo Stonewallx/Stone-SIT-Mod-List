@@ -1,4 +1,4 @@
-# Stone-SIT-Mod-List
+# SIT Mod List
 
 **Game Version:** 0.14.1.3.29351
 
@@ -10,13 +10,13 @@
 - SIT Manager: [Link](https://github.com/stayintarkov/SIT.Manager.Avalonia/releases)
 - SIT Discord: [Link](https://discord.gg/f4CN4n3nP2)
 
-
 **If you followed the SIT install folder layout, all these mods should be easy drag and drop into your SIT directory.**
 
 **Server/user/mods** - Server mods go here and usually consist of a folder with a package.json in it. **Only the server needs these installed.**
+
 **Game/BepInEx/plugins** - Client Mods go here and usually are .dll files but may also include a folder to go with it. **All clients should have the same client mods installed.**
 
-Disclaimer: 
+Disclaimer:
 
 - I do not take credit for any ports or mods, you can find the authors of both the original mods and ports in the links below. I simply have put mods in a list to easily install.
 
@@ -201,5 +201,19 @@ Disclaimer:
 - [Original Mod](https://hub.sp-tarkov.com/files/file/1152-inventory-organizing-features/) - Nightingale
 - Mod Version: **1.1.0-spt371**
 - Known Issues: EFT Sort feature does not work.
+
+---
+
+# Fontaine’s Weapon Modding QoL
+
+- [Original Mod](https://hub.sp-tarkov.com/files/file/1188-fontaine-s-weapon-modding-quality-of-life) -  Fontaine
+- Mod Version: **1.3.0**
+
+---
+
+# Kaeno-Trader Scrolling
+
+- [Original Mod](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/) - CWX
+- Mod Version: **1.0.2**
 
 ---
