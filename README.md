@@ -26,6 +26,7 @@ Disclaimer:
 
 **Any and all issues should be taken up in their respective port threads or at in the Discord** [Support Channel](https://discord.com/channels/1175114933713776690/1175127842737094656).
 
+# Please ensure your game runs fine before installing mods.
 ---
 
 # BigBrain
