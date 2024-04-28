@@ -10,11 +10,26 @@
 - SIT Manager: [Link](https://github.com/stayintarkov/SIT.Manager.Avalonia/releases)
 - SIT Discord: [Link](https://discord.gg/f4CN4n3nP2)
 
-**If you followed the SIT install folder layout, all these mods should be easy drag and drop into your SIT directory.**
+**Download and open the .zip folders of the mod you want in [Releases](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases), and extract/drag and drop the contents to your SIT folder.**
+---
 
-**Server/user/mods** - Server mods go here and usually consist of a folder with a package.json in it. **Only the server needs these installed.**
+# Update and please run your SIT and make sure it works and you can connect to your server before installing mods.
 
-**Game/BepInEx/plugins** - Client Mods go here and usually are .dll files but may also include a folder to go with it. **All clients should have the same client mods installed.**
+There are 2 types of mods: Server and Client.
+
+**Server Mods**
+
+- Server mods go here: **`SIT/Server/user/mods`,** and consist of a folder with a package.json in it.
+- **Only the server needs these installed.**
+- **Only the server host needs to have the Server installed, everyone else can just join through the launcher.**
+- Server mods gotten from SPT will mostly work out of the box on the server.
+
+Client Mods
+
+- Client Mods go here: **`SIT/Game/BepInEx/plugins`,** and have .dll files that will usually need to be ported to work with SIT due to the differences in code between them.
+- To find ports for mods you can check at my [SIT Mod Collection](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases/tag/1.10.8882.41069), [SIT Compatible Mods Thread](https://discord.com/channels/1175114933713776690/1175168404878008320), and possibly [SIT Port Requests](https://discord.com/channels/1175114933713776690/1175169674057621575).
+- These mods can have just a .dll for them or have a .dll and a folder with other files.
+- **All clients should have the same mods installed in their `Game/BepInEx/plugins` folder.**
 
 Load Order should be done to ensure mods are loading in the proper order. Mods load from top to bottom. You can edit the order easily using this: [Load Order Editor](https://hub.sp-tarkov.com/files/file/1082-loe-load-order-editor/)
 
