@@ -64,7 +64,7 @@ Disclaimer:
 
 - [Original Mod](https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/) - Solarint & DrakiaXYZ
 - [Ported Mod](https://discord.com/channels/1175114933713776690/1226055276629594122/1226055276629594122) - Estrogenesis
-- Mod Version: **2.2.2**
+- Mod Version: **2.2.1**
 - Requires: BigBrain, Waypoints.
 - Changes Made: Disabled grenades for bots.
 
