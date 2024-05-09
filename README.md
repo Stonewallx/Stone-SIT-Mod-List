@@ -170,13 +170,6 @@ Disclaimer:
 
 ---
 
-# Time & Weather Changer
-
-- [Original Mod](https://hub.sp-tarkov.com/files/file/487-time-weather-changer/) - SamSWAT
-- Mod Version: **2.3.1**
-
----
-
 # Amands’ Graphics
 
 - [Original Mod](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/) - Amands2Mello
@@ -213,7 +206,7 @@ Disclaimer:
 
 - [Original Mod](https://hub.sp-tarkov.com/files/file/1769-stash-search/) - Dirtbikercj
 - [Ported Mod](https://discord.com/channels/1175114933713776690/1227986279396806676/1227986279396806676) - LegolasCage
-- Mod Version: **1.0.5**
+- Mod Version: **1.1.1**
 
 ---
 
@@ -230,8 +223,3 @@ Disclaimer:
 - Mod Version: **1.3.0**
 
 ---
-
-# Kaeno-Trader Scrolling
-
-- [Original Mod](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/) - CWX
-- Mod Version: **1.0.2**
