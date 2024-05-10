@@ -198,6 +198,8 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - Is used to edit various values on the server. Here's an idea of categories it'll change: [Image](https://prnt.sc/4MfaMQIICOAn)
 - [**SPT Profile Editor**](https://hub.sp-tarkov.com/files/file/184-spt-aki-profile-editor/) by skitles55.
    - Can be used to change many values on your profile such as level, stash, quests, etc. 
+- [**Painter & Sub-Mods**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
+   - Adds various retextures and a trader for them all.
 - [**EFT Scope & Red Dot Sight Overhaul**](https://hub.sp-tarkov.com/files/file/1327-eft-scope-and-red-dot-sight-overhaul-by-geff-hannigan-reupload/) by ACOGforlife#2950 & Fontaine.
    - Changes several things on the scopes, sights and makes the reticles cleaner for some. 
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/) by ODT.
