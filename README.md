@@ -218,6 +218,8 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - This changes the standard trader portraits in the game to more realistic versions.
 - [**Easy Ammo Names**](https://hub.sp-tarkov.com/files/file/1763-easy-ammo-names/) by McDewgle.
    - A simple mod that renames ammunition so that it's easier to identify.
+- [**True Items**](https://hub.sp-tarkov.com/files/file/1651-true-items/) by PlinioJRM.
+   - Have you ever want some items to stack? AA Battery is too small, even though it occupies 1 slot. This mod rework the items to be close to what it suppose to be.
 - [**WTT - Little Drummer Boy**](https://hub.sp-tarkov.com/files/file/1818-wtt-little-drummer-boy/) by Tron.
    - This standalone WTT pack adds 13 high capacity magazines available at LL1 Mechanic.
 - [**Gilded Key Storage**](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/) by Jehree.
