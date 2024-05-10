@@ -40,22 +40,9 @@ Load Order should be done to ensure mods are loading in the proper order. Mods l
 - Mods load from top to bottom. Meaning whatever loads after will overwrite anything that changes the same thing above.
 - **SITCoop should always be #1 on the list.**
 
-**Format:** - Load order file can be found at **Server/user/mods/order.json**.
-
-`{
-  "order": [
-    "SITCoop",
-    "SWAG",
-    "Virtual's Custom Quest Loader",
-    "IhanaMies-LootValueBackend",
-    "MoreCheckmarksBackend",
-    "Fontaine-FOV-Fix",
-    "WTT-PackNStrap",
-    "Skwizzy-NoDiscardLimit",
-    "DanW-SPTQuestingBots",
-    "zSolarint-SAIN-ServerMod"
-  ]
-}`
+**Format:** 
+- Load order file can be found at **Server/user/mods/order.json**.
+- [PasteBin](https://pastebin.com/2Bqu8vR0) / [Image](https://prnt.sc/LnftHRJoqqHq)
 
 **This is my general opinion on making a load order:**
 SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods -> SVM -> Misc Mods -> LootingBots / QuestingBots -> Realism -> SAIN
