@@ -167,8 +167,14 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
 - [**Virtual's Custom Quest Loader**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/) by Virtual.
    - [Port Thread](https://discord.com/channels/1175114933713776690/1228890753086787607/1228890753086787607)
    - Mod Version: **2.0.0**
-
-
+- [**Realism Mod**](https://discord.com/channels/1175114933713776690/1234051873175240724/1235888177600921640) - [Original Mod](https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/) by Fontaine.
+   - [Port Thread](https://discord.com/channels/1175114933713776690/1234051873175240724/1234051873175240724)
+   - Mod Version: **1.1.2**
+   - Known Issues: Please read the first post on that thread to know what's supposed to work and what isn't.
+- [**Quest Tracker**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1574-quest-tracker/#overview) by DrakiaXYZ.
+   - [Port Thread](https://discord.com/channels/1175114933713776690/1228076676840292365/1228076676840292365)
+   - Mod Version: **1.2.0**
+   - Known Issues: Will only work for host.
 
 
 # Client Mods - Not Ported / Works.
@@ -184,6 +190,50 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - Mod Version: **1.0.3**
 - [**Use Loose Loot**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1264-use-loose-loot/?highlight=use) by gaylatea & DrakiaXYZ.
    - Mod Version: **1.1.2**
+
+# Server Mods & Tools.
+**The list below are some recommended server mods and tools based on various things you may want for your server. These will work out of the box for SIT. You can find plenty more at the [SPT Hub](https://hub.sp-tarkov.com/files/category-file-list/16-server-mods/?pageNo=1&sortField=lastChangeTime&sortOrder=DESC)**
+
+- [**Server Value Modifier -SVM-**](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/) by GhostFenixx.
+   - Is used to edit various values on the server. Here's an idea of categories it'll change: [Image](https://prnt.sc/4MfaMQIICOAn)
+- [**SPT Profile Editor**](https://hub.sp-tarkov.com/files/file/184-spt-aki-profile-editor/) by skitles55.
+   - Can be used to change many values on your profile such as level, stash, quests, etc. 
+- [**EFT Scope & Red Dot Sight Overhaul**](https://hub.sp-tarkov.com/files/file/1327-eft-scope-and-red-dot-sight-overhaul-by-geff-hannigan-reupload/) by ACOGforlife#2950 & Fontaine.
+   - Changes several things on the scopes, sights and makes the reticles cleaner for some. 
+- [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/) by ODT.
+   - Massive QoL mod that shows all useful information in item descriptions (prices, barters, crafts and profit calculation, quests, hideout, armor stats, etc) and recolors all items based on MMO-like rarity with international support.
+- [**Lots of Loot**](https://hub.sp-tarkov.com/files/file/697-lots-of-loot/) by RainbowPC.
+   - Allows Items to spawn inside loose containers (eg. Docs Case in marked room). Multiple pieces of Loot can spawn in the same spot.
+- [**Hephaestus**](https://hub.sp-tarkov.com/files/file/886-hephaestus/) by alexkarpen.
+   - It creates a trader that sells your preset weapon builds.
+- [**Expanded Task Text**](https://hub.sp-tarkov.com/files/file/1415-expanded-task-text-ett/) by Dirtbikercj.
+   - Adds extra information to tasks.
+- [**Level Rewards**](https://hub.sp-tarkov.com/files/file/1080-level-rewards/) by TorturedChunk.
+   - This mod sends you random rewards when you level up and can be used with fresh or existing profiles. Items and amount of items are randomly picked based on the Trader and/or options you configure.
+- [**Easy Ammunition**](https://hub.sp-tarkov.com/files/file/1298-easy-ammunition/) by Refringe.
+   - Assign background colours to ammunition items based on their penetration values. This allows players to quickly identify the best ammunition without having a PHD in ammunition engineering. This mod is a streamlined server-side adaptation of Faupi - Munitions Expert.
+- [**Callsign**](https://hub.sp-tarkov.com/files/file/1124-callsign/) by Helldiver.
+   - This mod changes the names of PMCs in the game to make them sound more similar to online as well as interesting.
+- [**Realistic Trader Icons**](https://hub.sp-tarkov.com/files/file/1141-realistic-trader-icons/) by kwebber321.
+   - This changes the standard trader portraits in the game to more realistic versions.
+- [**Easy Ammo Names**](https://hub.sp-tarkov.com/files/file/1763-easy-ammo-names/) by McDewgle.
+   - A simple mod that renames ammunition so that it's easier to identify.
+- [**WTT - Little Drummer Boy**](https://hub.sp-tarkov.com/files/file/1818-wtt-little-drummer-boy/) by Tron.
+   - This standalone WTT pack adds 13 high capacity magazines available at LL1 Mechanic.
+- [**Gilded Key Storage**](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/) by Jehree.
+   - This mod aims to add a balanced way to store all your keys in one grid square, and do so in a convenient way that makes it easy to tell if you have already acquired a key.
+- [**Medical Attention**](https://hub.sp-tarkov.com/files/file/255-medical-attention/) by jbs4bmx.
+   - Modification of pain killers, med kits, surgical kits, splints, bandages, balms, and injectors.
+- [**Remove Time Gate From Quests**](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/) by Dirtbikercj.
+   - Quick and dirty mod after recent complaints that will remove the time requirements from quests.
+- [**Leave's Relooted**](https://hub.sp-tarkov.com/files/file/1603-leaves-relooted/) by DeadLeaves.
+   - The loot in 3.7.0/3.7.1/3.7.2 is rather underwhelming. Almost half the spawn points that were present in 3.6.1 are missing. This mod injects the loot files from 3.6.1 for a much greater experience.
+- [**Leave's Loot Fuckery**](https://hub.sp-tarkov.com/files/file/1587-leaves-loot-fuckery/) by DeadLeaves.
+   - It allows you to adjust the loose loot on maps down to each loot category through an extensive settings file. DOES NOT TOUCH CONTAINERS. It allows you to generate a detailed dump of the loot of a map, down to each individual item and count. It allows you to generate a statistical analysis of targeted items over many runs.
+- [**Leave's Barter Economy**](https://hub.sp-tarkov.com/files/file/1760-barter-economy/) by DeadLeaves.
+   - This mod will completely change how traders trade with the player. Instead of buying things with paper money. You now trade your own valuable items for the stuff you need. A bottle of water for a new mag. or perhaps a golden rolex for a shiny new gun. Who knows what the traders want, and what you are willing to give up.
+
+
 
 
 
