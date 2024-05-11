@@ -204,8 +204,6 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - Is used to edit various values on the server. Here's an idea of categories it'll change: [Image](https://prnt.sc/4MfaMQIICOAn)
 - [**SPT Profile Editor**](https://hub.sp-tarkov.com/files/file/184-spt-aki-profile-editor/) by skitles55.
    - Can be used to change many values on your profile such as level, stash, quests, etc. 
-- [**Painter & Sub-Mods**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
-   - Adds various retextures and a trader for them all.
 - [**EFT Scope & Red Dot Sight Overhaul**](https://hub.sp-tarkov.com/files/file/1327-eft-scope-and-red-dot-sight-overhaul-by-geff-hannigan-reupload/) by ACOGforlife#2950 & Fontaine.
    - Changes several things on the scopes, sights and makes the reticles cleaner for some. 
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/) by ODT.
@@ -244,6 +242,7 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - This mod will completely change how traders trade with the player. Instead of buying things with paper money. You now trade your own valuable items for the stuff you need. A bottle of water for a new mag. or perhaps a golden rolex for a shiny new gun. Who knows what the traders want, and what you are willing to give up.
 - [**Painter & Sub-Mods AIO + Tactical Gear Component**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
    - [Download Link](https://drive.google.com/uc?export=download&id=1e_DAHKOMNvgtStc0QAs8KIkEar8E-Pxm)
+   - Adds various retextures and a trader for them all.
    - Mod Versions: **1.0.3**
       -  Mag Tape: **1.0.4**
       -  BlackCore: **1.0.8**
