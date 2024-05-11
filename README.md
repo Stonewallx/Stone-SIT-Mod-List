@@ -182,6 +182,17 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
 - [**Thermal-NVG-Overhaul**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1776-tano-thermal-and-nvg-overhaul/#overview) by alex & Borkel.
    - [Port Thread](https://discord.com/channels/1175114933713776690/1224589225496805386/1224656799370838046)
    - Mod Version: **1.0.3**
+- [**Painter & Sub-Mods AIO + Tactical Gear Component**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
+   - [Download Link] - Finalizing.
+   - Adds various retextures and a trader for them all.
+   - Mod Versions: **1.0.3**
+      -  Mag Tape: **1.0.4**
+      -  BlackCore: **1.0.8**
+      -  WhiteCore: **1.0.5**
+      -  SandCore: **1.0.3**
+      -  GreenCore: **1.0.7**
+      -  RedCore: **1.0.3**
+      -  Tactical Gear Component: **1.0.7**
 
 # Client Mods - Not Ported / Works.
 **These are mods not ported to work specifically with SIT, but are reported working with the current SIT. No support will be given for these.**
@@ -240,17 +251,7 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - It allows you to adjust the loose loot on maps down to each loot category through an extensive settings file. DOES NOT TOUCH CONTAINERS. It allows you to generate a detailed dump of the loot of a map, down to each individual item and count. It allows you to generate a statistical analysis of targeted items over many runs.
 - [**Leave's Barter Economy**](https://hub.sp-tarkov.com/files/file/1760-barter-economy/) by DeadLeaves.
    - This mod will completely change how traders trade with the player. Instead of buying things with paper money. You now trade your own valuable items for the stuff you need. A bottle of water for a new mag. or perhaps a golden rolex for a shiny new gun. Who knows what the traders want, and what you are willing to give up.
-- [**Painter & Sub-Mods AIO + Tactical Gear Component**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
-   - [Download Link](https://drive.google.com/uc?export=download&id=1e_DAHKOMNvgtStc0QAs8KIkEar8E-Pxm)
-   - Adds various retextures and a trader for them all.
-   - Mod Versions: **1.0.3**
-      -  Mag Tape: **1.0.4**
-      -  BlackCore: **1.0.8**
-      -  WhiteCore: **1.0.5**
-      -  SandCore: **1.0.3**
-      -  GreenCore: **1.0.7**
-      -  RedCore: **1.0.3**
-      -  Tactical Gear Component: **1.0.7**
+
 
 
 
