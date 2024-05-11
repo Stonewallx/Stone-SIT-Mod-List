@@ -183,7 +183,8 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - [Port Thread](https://discord.com/channels/1175114933713776690/1224589225496805386/1224656799370838046)
    - Mod Version: **1.0.3**
 - [**Painter & Sub-Mods AIO + Tactical Gear Component**](https://hub.sp-tarkov.com/files/file/1412-painter/#overview) by MoxoPixel.
-   - [Download Link] - Finalizing.
+   - [Port Thread](https://discord.com/channels/1175114933713776690/1238749627826704415/1238749627826704415)
+   - [Download Link](https://drive.google.com/uc?export=download&id=1ede466vXCTLPKjbWhNQliSbAQnjPKfQM)
    - Adds various retextures and a trader for them all.
    - Mod Versions: **1.0.3**
       -  Mag Tape: **1.0.4**
