@@ -176,9 +176,6 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - [Port Thread](https://discord.com/channels/1175114933713776690/1228076676840292365/1228076676840292365)
    - Mod Version: **1.2.0**
    - Known Issues: Will only work for host.
-- [**Virtual's Custom Quest Loader**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/) by Virtual.
-   - [Port Thread](https://discord.com/channels/1175114933713776690/1228890753086787607/1228890753086787607)
-   - Mod Version: **2.0.0**
 - [**Thermal-NVG-Overhaul**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1776-tano-thermal-and-nvg-overhaul/#overview) by alex & Borkel.
    - [Port Thread](https://discord.com/channels/1175114933713776690/1224589225496805386/1224656799370838046)
    - Mod Version: **1.0.3**
