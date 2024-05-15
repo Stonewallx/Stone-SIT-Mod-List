@@ -95,7 +95,7 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
    - [Port Thread](https://discord.com/channels/1175114933713776690/1229922127801749574/1229922127801749574)
    - Mod Version: **0.5.3**
 - [**Rai’s Hidden Caches**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1770-rai-s-hidden-caches/) by RaiRaiTheRaichu.
-   - [Port Thread](https://discord.com/channels/1175114933713776690/1232433240888053810/1232433240888053810)
+   - [Port Thread](https://discord.com/channels/1175114933713776690/1238267624396161116/1238267624396161116)
    - Mod Version: **1.0**
 - [**CWX Debugging Tool**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1874-botmonitor-cwx-s-debugging-tool/#overview) by CWX, nooky.
    - [Port Thread](https://discord.com/channels/1175114933713776690/1232426761824768181/1232426761824768181)
