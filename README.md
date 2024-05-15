@@ -127,8 +127,6 @@ SIT -> SWAG / Spawn Mod -> VCQL ->UI / Display -> Traders -> Content Bundle Mods
 - [**Inventory Organizing Features**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1152-inventory-organizing-features/) by Nightingale.
    - [Port Thread](https://discord.com/channels/1175114933713776690/1233670245181558837/1233670245181558837)
    - Mod Version: **1.1.0-spt371**
-- [**Fontaine’s Weapon Modding QoL**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1188-fontaine-s-weapon-modding-quality-of-life) by Fontaine.
-   - Mod Version: **1.3.0**
 - [**Boss Notifier**](https://github.com/Stonewallx/Stone-SIT-Mod-List/releases) - [Original Mod](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/) by Mattdokn.
    - Mod Version: **1.4.1**
    - Known Issues: Will only work for host. Just have host relay the information.
